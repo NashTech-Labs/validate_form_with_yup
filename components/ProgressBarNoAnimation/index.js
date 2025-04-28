@@ -1,1 +1,0 @@
-export {ProgressBarNoAnimation} from './ProgressBarNoAnimation';

@@ -1,1 +1,0 @@
-export {ProgressBarWithAnimation} from './ProgressBarWithAnimation';
